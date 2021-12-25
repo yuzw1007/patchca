@@ -2,7 +2,7 @@
 _Simple yet powerful CAPTCHA library written in Java._
 
 ## Intro
-Reproduce by [patchca](http://code.google.com/p/patchca/)
+Fork by [patchca](http://code.google.com/p/patchca/)
 
 ## Usage
 ```xml
